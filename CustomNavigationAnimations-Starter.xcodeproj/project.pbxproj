@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E802D6421F3BB22000A5C0C /* CustomAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E802D6321F3BB22000A5C0C /* CustomAnimator.swift */; };
 		65184E081F7E464B00172213 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65184E071F7E464B00172213 /* AppDelegate.swift */; };
 		65184E0A1F7E464B00172213 /* MusicPickViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65184E091F7E464B00172213 /* MusicPickViewController.swift */; };
 		65184E0D1F7E464B00172213 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65184E0B1F7E464B00172213 /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2E802D6321F3BB22000A5C0C /* CustomAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAnimator.swift; sourceTree = "<group>"; };
 		65184E041F7E464B00172213 /* CustomNavigationAnimations-Starter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CustomNavigationAnimations-Starter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65184E071F7E464B00172213 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65184E091F7E464B00172213 /* MusicPickViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicPickViewController.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				65184E101F7E464B00172213 /* LaunchScreen.storyboard */,
 				65184E131F7E464B00172213 /* Info.plist */,
 				65184E3D1F7E58CE00172213 /* MusicPlayerViewController.swift */,
+				2E802D6321F3BB22000A5C0C /* CustomAnimator.swift */,
 			);
 			path = "CustomNavigationAnimations-Starter";
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 				65184E3E1F7E58CE00172213 /* MusicPlayerViewController.swift in Sources */,
 				65184E391F7E4DDD00172213 /* SongCell.swift in Sources */,
 				65184E081F7E464B00172213 /* AppDelegate.swift in Sources */,
+				2E802D6421F3BB22000A5C0C /* CustomAnimator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
